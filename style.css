@@ -1,0 +1,26 @@
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+font-size: 23px;
+width: 100%;
+border-radius: 20px;
+
+
+}
+
+a{
+background-color: black;
+cursor: pointer;
+color: white;
+width: 50%;
+border-radius: 20px;
+padding: 10px;
+}
+
+a:hover{
+    color: red;
+}
